@@ -1,0 +1,9 @@
+# Code of squaring a number
+
+def square(num):
+
+    result = num * num
+    
+    return result
+    
+ square(10)
